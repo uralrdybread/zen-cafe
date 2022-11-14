@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: nunito;
+    src: url(assets/fonts/NunitoSans.ttf) format('truetype');
+}
+
+
+.nunito {
+    font-family: nunito;
+}
+
+
+
+
+
+
+@import 'customize-bootstrap.scss';
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import '~bootstrap-icons/font/bootstrap-icons.css';
+@import '~font-awesome/css/font-awesome.min.css'
+

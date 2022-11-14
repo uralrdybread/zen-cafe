@@ -1,0 +1,21 @@
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: zenSecondary;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #61714D;
+}
+
+#mainNavbar .navbar-brand {
+    color: #61714D;
+}
+
+.navbar.scrolled {
+    background: rgb(222, 192, 222);
+    transition: background 500ms;
+}
