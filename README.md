@@ -1,3 +1,5 @@
+This is a small project for a fictitious cafe and bakery. Everything is responsive and is designed not only for desktop viewing but also mobile devices as well. The home page is basically finished but work still needs to be done on the meny, location and other navigations. The intent of the project was to create a website without it looking like a typical bootstrap creation. It does utilize bootstap 5 but without many of the cliche buttons and features. Hip, light and effective was the goal.
+
 # Zencafebakery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
