@@ -1,5 +1,20 @@
 https://zen-cafe-b6fae.web.app
 
+This is a website for a fictitious cafe. It is geared for patrons that would like to drink coffee/tea, eat bread snacks and relax. It has an in-house library and selected menu items for either single serving or group gatherings.
+
+The site is fully responsive using bootstrap 5. The top of the site lists the different navigation options but when it detects a smaller view it activates a drop-down menu.
+
+![menudrop](https://user-images.githubusercontent.com/48900828/208265739-6e1b4353-ecd7-45d5-b4c5-7691c8d51226.PNG)
+
+![topdown](https://user-images.githubusercontent.com/48900828/208265760-685430ef-fc59-41e5-b6f5-3f696cf635a4.PNG)
+
+
+Each picture on the home page is situated on the side of the text description but once the view size reaches small it will allocate a top-down view for ease of mobile scrolling.
+
+![sidebyside](https://user-images.githubusercontent.com/48900828/208265768-3956c541-5fc7-4b9a-9904-b5c989f90cdc.PNG)
+
+![menu](https://user-images.githubusercontent.com/48900828/208265771-cf2c1dce-faea-447e-b088-8fd6a551923f.PNG)
+
 # Zencafebakery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
