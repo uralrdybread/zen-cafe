@@ -1,4 +1,4 @@
-## Zen Cafe
+# Zen Cafe
 
 This is a website for a fictitious cafe. It is geared for patrons that would like to drink coffee/tea, eat bread snacks and relax. 
 It has an in-house library and selected menu items for either single serving or group gatherings.
